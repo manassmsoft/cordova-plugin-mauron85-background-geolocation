@@ -1,0 +1,1 @@
+# cordova-plugin-mauron85-background-geolocation
